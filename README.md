@@ -1,2 +1,2 @@
 # NutriTALK
-Hey,there! What about an opinion on nutritional genomics? 
+Hey,there! What about an chitchat on nutritional genomics? 
